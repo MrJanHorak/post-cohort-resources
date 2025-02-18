@@ -65,7 +65,7 @@
 - [FelixTechTips](https://www.youtube.com/user/FelixTechTips) (Coding Tutorials, entertaining coding videos and just having fun with tech stuff :)
   )
 
-### 8. Udemy Courses <i>(Never pay full price, wait a minute and they may have a course for cheap)</i> :
+### 8. Udemy Courses <i>(Try to wait for a sale! It's often easy to get a deal!)</i> :
 
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=24T1MT101824)
 - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/?couponCode=24T1MT101824)
@@ -96,4 +96,5 @@
 - [socket.io](https://socket.io) (Learn Bidirectional and low-latency communication for every platform aka Realtime chat and tech behind Jackbox games)
 - https://itch.io/game-assets/free Free Game assets in case you want to make some more games.
 - https://freesound.org/ Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?
-- [How to 'juice' your app](https://www.youtube.com/watch?v=Fy0aCDmgnxg).
+- [How to 'juice' your app](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+- [AirBnB JavaScript Code Writing style guide](https://github.com/airbnb/javascript)
