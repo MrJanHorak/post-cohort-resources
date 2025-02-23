@@ -31,13 +31,18 @@
 - https://mycolor.space/ ColorSpace - Color Palettes Generator. Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! Your space for everything that has to do with color!
 - [Become a Killer Designer in 70 Days](https://www.radnolan.com/70rad)
   (daily email with frontend/UI tasks)
-- [uiverse.io](https://uiverse.io) (Open Source UI library)
+- [daisyUI](https://daisyui.com/)The most popular component library for Tailwind CSS
+- [FloatUI](https://floatui.com/) Float UI is a collection of modern UI components and website templates, built on top of React/Nextjs with Tailwind CSS
+- [shadcn](https://ui.shadcn.com) Considered the GOAT of copy and paste UI libraries by some. 
+- [AceternityUI](https://ui.aceternity.com/)Free stunning animated components. Built with React, TypeScript, Tailwind CSS and Framer Motion.
+- [Magic UI](https://designerup.co/) Imagine your website is a plain bowl of noodles. Magic UI is the chili oil that makes it unforgettable.
+- [Next UI](https://www.heroui.com/) A React UI Library.
 
 ### 4. Git and Version Control
 
 - GitHub Skills: https://skills.github.com/ (Learn GitHUb from GitHub)
 - Pro Git Book: https://git-scm.com/book/en/v2 (A complete guide to Git)
-- http://learninggitbranching.js.org (Learn how branching works with Git)
+- [Learn Git branching](https://learngitbranching.js.org/?locale=en_US) (Learn how branching works with Git)
 - http://ohmygit.org (Learn Git by playing a game)
 
 ### 5. Deployment Platforms
@@ -47,6 +52,7 @@
 - Fly.io: https://fly.io/docs/ (Lightweight deployment for full-stack apps)
 - https://netlify.com (Great free place to deploy apps)
 - https://surge.sh (Simple way to deploy Vanilla JavaScript apps)
+- [Walk through guides to deploy for various platforms](https://deployit.surge.sh/)
 
 ### 6. Contributing to Open Source
 
@@ -70,7 +76,7 @@
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=24T1MT101824)
 - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/?couponCode=24T1MT101824)
 - [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/?couponCode=24T1MT101824)
-- [Mastering TypeScript 2024](https://www.udemy.com/course/learn-typescript/?couponCode=24T1MT101824)
+- [Mastering TypeScript 2025](https://www.udemy.com/course/learn-typescript/?couponCode=24T1MT101824)
 
 ### 9. AI Focused Links and Learning:
 
