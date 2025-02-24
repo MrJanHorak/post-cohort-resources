@@ -45,7 +45,17 @@
 - [Learn Git branching](https://learngitbranching.js.org/?locale=en_US) (Learn how branching works with Git)
 - http://ohmygit.org (Learn Git by playing a game)
 
-### 5. Deployment Platforms
+### 5. SQL Related Links
+- https://datalemur.com/sql-game  SQL Squid Game (Brand new even to me! A little afraid to play it!)
+- https://sql-island.informatik.uni-kl.de/ SQL Island (you have to switch the language in the menu it defaults to German)
+- https://lost-at-sql.therobinlord.com/  Lost at SQL
+- https://mystery.knightlab.com/ SQL Murder Mystery
+- https://sqlpd.com/  SQL Police Department
+- https://datalemur.com/blog/amazon-sql-interview-questions  Real Interview Questions
+- https://datalemur.com/questions/sql-avg-review-ratings
+- https://pgexercises.com/ (From the bonus material in todays Calendar)
+
+### 6. Deployment Platforms
 
 - Vercel: https://vercel.com/ (Best for deploying React apps or Next.js projects)
 - Heroku: https://www.heroku.com/ (Great for full-stack applications with Node.js or Python)
@@ -54,12 +64,12 @@
 - https://surge.sh (Simple way to deploy Vanilla JavaScript apps)
 - [Walk through guides to deploy for various platforms](https://deployit.surge.sh/)
 
-### 6. Contributing to Open Source
+### 7. Contributing to Open Source
 
 - First Timers Only: https://www.firsttimersonly.com/ (Find beginner-friendly open-source projects)
 - GitHub's Good First Issues: https://github.com/search?q=label%3Agood-first-issue (Filter issues for beginners)
 
-### 7. YouTube Channels to Follow
+### 8. YouTube Channels to Follow
 
 - [Alvin the Programmer](https://www.youtube.com/@AlvintheProgrammer) (Coding YouTube Channel)
 - [Matt Berman](https://www.youtube.com/@matthew_berman) (Reviews Anything AI)
@@ -71,14 +81,14 @@
 - [FelixTechTips](https://www.youtube.com/user/FelixTechTips) (Coding Tutorials, entertaining coding videos and just having fun with tech stuff :)
   )
 
-### 8. Udemy Courses <i>(Try to wait for a sale! It's often easy to get a deal!)</i> :
+### 9. Udemy Courses <i>(Try to wait for a sale! It's often easy to get a deal!)</i> :
 
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=24T1MT101824)
 - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/?couponCode=24T1MT101824)
 - [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/?couponCode=24T1MT101824)
 - [Mastering TypeScript 2025](https://www.udemy.com/course/learn-typescript/?couponCode=24T1MT101824)
 
-### 9. AI Focused Links and Learning:
+### 10. AI Focused Links and Learning:
 
 - https://DeepLearning.AI (AI Courses and Specializations)
 - https://forwardfuture.ai (Matt Berman's Newsletter on everything AI)
@@ -88,7 +98,7 @@
 - https://huggingface.co (I call it the GitHub for everything AI)
 - [easydiffusion.github.io](https://easydiffusion.github.io) (Easy to install and use Generative AI tool to create images on your own computer)
 
-### 10. More resources:
+### 11. More resources:
 
 - [Developer Roadmaps](https://roadmap.sh)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
