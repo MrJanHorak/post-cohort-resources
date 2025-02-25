@@ -114,3 +114,5 @@
 - https://freesound.org/ Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?
 - [How to 'juice' your app](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 - [AirBnB JavaScript Code Writing style guide](https://github.com/airbnb/javascript)
+- ['Cat Collector Bonus Lesson'](https://gist.github.com/jim-clark/4945b32b2f105c71ba03e29a42d05a42) to use htmx for SPA-Like features in a Non-SPA Framework
+- [HTMX crash couse from Traversy Media](https://www.youtube.com/watch?v=0UvA7zvwsmg)
