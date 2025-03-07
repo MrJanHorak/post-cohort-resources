@@ -37,6 +37,7 @@
 - [AceternityUI](https://ui.aceternity.com/)Free stunning animated components. Built with React, TypeScript, Tailwind CSS and Framer Motion.
 - [Magic UI](https://designerup.co/) Imagine your website is a plain bowl of noodles. Magic UI is the chili oil that makes it unforgettable.
 - [Next UI](https://www.heroui.com/) A React UI Library.
+- [Tailwind CSS Templates](https://github.com/rosstopping/tailwindcss-templates) Free Templates [samples to admire here](https://templates.digizu.co.uk/).
 
 ### 4. Git and Version Control
 
