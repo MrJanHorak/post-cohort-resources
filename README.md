@@ -20,6 +20,7 @@
   * [Regex Learn](https://regexlearn.com/learn/regex101) (A tutorial to learn the basics of Regex)
   * [The 75 Most Important LeetCode Questions](https://www.youtube.com/watch?v=SVvr3ZjtjI8)
   * ["Famous" Spreadsheet of 75 Important LeetCode Questions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) (Organized by technique/pattern)
+  * [Grind75](https://www.techinterviewhandbook.org/grind75/)(Customize LeetCode study plans according to your needs)
 
 ### 3\. UX/UI/CSS
 
@@ -122,7 +123,12 @@
   * [Unsplash](https://unsplash.com) (A website for high-quality, free-to-use stock photography)
   * [Emoji Picker React](https://www.google.com/search?q=https://emoji-picker-react.dev/) (A React component for an emoji picker)
 
-### 13\. More Resources
+### 13\. Interview Prep
+  * [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) (Front end interview preparation resources for busy engineers)
+  * [Tech Interview Handbook](https://www.frontendinterviewhandbook.com/) (Free curated interview preparation materials for busy people)
+
+
+### 14\. More Resources
 
   * [Developer Roadmaps](https://roadmap.sh)
   * [Learn X in Y Minutes](https://learnxinyminutes.com/)
