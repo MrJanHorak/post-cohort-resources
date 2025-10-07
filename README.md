@@ -13,6 +13,9 @@
 - [WebFX HTTP Status Code Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/) (A quick reference)
 - [HTTP Cats](https://http.cat/) (A fun way to learn HTTP status codes)
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (Another fun way to learn HTTP status codes)
+- [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Free Pythion Resource for learning)
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) (Another great free resource for Python!)
+- [Invent With Python](https://inventwithpython.com/) (More free Python resources!)
 
 ### 2\. Coding Challenges and Practice
 
