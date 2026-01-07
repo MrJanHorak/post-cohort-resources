@@ -53,6 +53,11 @@
 - [Animista](https://animista.net/) (A CSS animation library)
 - [CSS Gradient](https://cssgradient.io/) (A CSS gradient generator)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) (A tool to generate CSS grid layouts)
+- [Flexbox Zombies](https://flexboxzombies.com/) (Learn flexbox by playing a game)
+- [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)  (Learn flexbox by playing a game)
+- [Flexbox Froggy](https://flexboxfroggy.com/) (Learn flexbox by playing a game)
+- [CSS Grid Garden](https://cssgridgarden.com/) (Learn CSS Grid by playing a game)
+- [CSS Diner](https://flukeout.github.io/) (Learn CSS while polaying a game!)
 
 ### 4\. Git and Version Control
 
@@ -134,12 +139,19 @@
 - [Unsplash](https://unsplash.com) (A website for high-quality, free-to-use stock photography)
 - [Emoji Picker React](https://www.google.com/search?q=https://emoji-picker-react.dev/) (A React component for an emoji picker)
 
-### 13\. Interview Prep
+### 13\. API Resources
+- [Public APIs](https://github.com/public-apis/public-apis) (A list of various poublic APIs)
+- [Rapid API](https://rapidapi.com/) (A 'search engine' and subscription platform for various APIs)
+- [Public APIs](https://publicapis.dev/) (A graphic display of the GitHub repo with search functionality)
+
+
+
+### 14\. Interview Prep
 
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) (Front end interview preparation resources for busy engineers)
 - [Tech Interview Handbook](https://www.frontendinterviewhandbook.com/) (Free curated interview preparation materials for busy people)
 
-### 14\. More Resources
+### 15\. More Resources
 
 - [Developer Roadmaps](https://roadmap.sh)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
