@@ -138,7 +138,7 @@
 - [UI Avatars](https://ui-avatars.com/) (A service to generate avatars with initials)
 - [Google Fonts](https://fonts.google.com) (Google's library of free and open-source fonts)
 - [Unsplash](https://unsplash.com) (A website for high-quality, free-to-use stock photography)
-- [Emoji Picker React](https://emoji-picker-react.dev/) (A React component for an emoji picker)
+- [Emoji Picker React](https://ealush.com/emoji-picker-react/) (A React component for an emoji picker)
 
 ### 13\. API Resources
 
@@ -166,7 +166,6 @@
 
 - [Developer Roadmaps](https://roadmap.sh)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
-- [JR Developer Portfolio Reviews](https://www.youtube.com/watch?v=9lhltZf8lJI)
 - [The 10 Most Important Concepts for Coding Interviews](https://www.youtube.com/watch?v=Ge0Udbws1kc) by Clement of [AlgoExpert](https://www.algoexpert.io/)
 - [Atomic Habits Summary](https://jamesclear.com/atomic-habits-summary) (How to become 37.78 times better at anything)
 - [Atomic Habits Summary YouTube Links](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) (How to become 37.78 times better at anything)
@@ -181,4 +180,4 @@
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Cat Collector Bonus Lesson](https://gist.github.com/jim-clark/4945b32b2f105c71ba03e29a42d05a42) (Using htmx for SPA-like features)
 - [HTMX Crash Course from Traversy Media](https://www.youtube.com/watch?v=0UvA7zvwsmg)
-- [Canada-Holiday.ca](https://canada-holiday.ca) (A resource for Canadian holidays)
+- [Canada-Holiday.ca](https://canada-holidays.ca) (A resource for Canadian holidays)
