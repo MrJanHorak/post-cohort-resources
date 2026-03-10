@@ -29,7 +29,7 @@
 - [The 75 Most Important LeetCode Questions](https://www.youtube.com/watch?v=SVvr3ZjtjI8)
 - ["Famous" Spreadsheet of 75 Important LeetCode Questions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) (Organized by technique/pattern)
 - [Grind75](https://www.techinterviewhandbook.org/grind75/)(Customize LeetCode study plans according to your needs)
-
+- [Interview Prep Toolkit](https://github.com/theamazingmrb/interview-prep-toolkit)(A comprehensive, open-source interview preparation resource)
 ### 3\. UX/UI/CSS
 
 - [CSS-Tricks](https://css-tricks.com/) (A classic site for all things CSS)
