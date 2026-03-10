@@ -9,11 +9,11 @@
 - [Django Documentation](https://docs.djangoproject.com/en/stable/)
 - [W3Schools](https://www.w3schools.com/) (Great for quick reference)
 - [freeCodeCamp](https://www.freecodecamp.org/) (A non-profit with a full curriculum and thousands of tutorials)
-  [MDN HTTP Status Code Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status) (Official documentation)
+- [MDN HTTP Status Code Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status) (Official documentation)
 - [WebFX HTTP Status Code Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/) (A quick reference)
 - [HTTP Cats](https://http.cat/) (A fun way to learn HTTP status codes)
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (Another fun way to learn HTTP status codes)
-- [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Free Pythion Resource for learning)
+- [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Free Python resource for learning)
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) (Another great free resource for Python!)
 - [Invent With Python](https://inventwithpython.com/) (More free Python resources!)
 
@@ -28,8 +28,9 @@
 - [Regex Learn](https://regexlearn.com/learn/regex101) (A tutorial to learn the basics of Regex)
 - [The 75 Most Important LeetCode Questions](https://www.youtube.com/watch?v=SVvr3ZjtjI8)
 - ["Famous" Spreadsheet of 75 Important LeetCode Questions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) (Organized by technique/pattern)
-- [Grind75](https://www.techinterviewhandbook.org/grind75/)(Customize LeetCode study plans according to your needs)
-- [Interview Prep Toolkit](https://github.com/theamazingmrb/interview-prep-toolkit)(A comprehensive, open-source interview preparation resource)
+- [Grind75](https://www.techinterviewhandbook.org/grind75/) (Customize LeetCode study plans according to your needs)
+- [Interview Prep Toolkit](https://github.com/theamazingmrb/interview-prep-toolkit) (A comprehensive, open-source interview preparation resource)
+
 ### 3\. UX/UI/CSS
 
 - [CSS-Tricks](https://css-tricks.com/) (A classic site for all things CSS)
@@ -42,10 +43,10 @@
 - [Become a Killer Designer in 70 Days](https://www.radnolan.com/70rad) (Daily email with frontend/UI tasks)
 - [daisyUI](https://daisyui.com/) (The most popular component library for Tailwind CSS)
 - [FloatUI](https://floatui.com/) (A collection of modern UI components and website templates built with React/Next.js and Tailwind CSS)
-- [shadcn](https://ui.shadcn.com) (Considered by some as the "GOAT" of copy-and-paste UI libraries)
+- [shadcn/ui](https://ui.shadcn.com) (Considered by some as the "GOAT" of copy-and-paste UI libraries)
 - [AceternityUI](https://ui.aceternity.com/) (Free animated components built with React, TypeScript, Tailwind CSS, and Framer Motion)
-- [Magic UI](https://designerup.co/)
-- [Next UI](https://www.heroui.com/) (A React UI Library)
+- [Magic UI](https://magicui.design/) (Animated UI components for modern React apps)
+- [HeroUI (formerly NextUI)](https://www.heroui.com/) (A React UI library)
 - [Tailwind CSS Templates](https://github.com/rosstopping/tailwindcss-templates) (Free templates with [samples to admire here](https://templates.digizu.co.uk/))
 - [Pattern CSS](https://bansal.io/pattern-css) (A collection of CSS patterns)
 - [Gradihunt](https://gradihunt.bansal.io/) (A gradient collection for designers and developers)
@@ -54,10 +55,10 @@
 - [CSS Gradient](https://cssgradient.io/) (A CSS gradient generator)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) (A tool to generate CSS grid layouts)
 - [Flexbox Zombies](https://flexboxzombies.com/) (Learn flexbox by playing a game)
-- [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)  (Learn flexbox by playing a game)
+- [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) (Learn flexbox by playing a game)
 - [Flexbox Froggy](https://flexboxfroggy.com/) (Learn flexbox by playing a game)
 - [CSS Grid Garden](https://cssgridgarden.com/) (Learn CSS Grid by playing a game)
-- [CSS Diner](https://flukeout.github.io/) (Learn CSS while polaying a game!)
+- [CSS Diner](https://flukeout.github.io/) (Learn CSS while playing a game!)
 
 ### 4\. Git and Version Control
 
@@ -66,7 +67,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) (Learn how branching works with Git)
 - [Oh My Git](http://ohmygit.org) (Learn Git by playing a game)
 
-### 5\. SQL Related Links
+### 5\. SQL-Related Links
 
 - [SQL Squid Game](https://datalemur.com/sql-game)
 - [SQL Island](https://sql-island.informatik.uni-kl.de/) (You have to switch the language in the menu; it defaults to German)
@@ -110,7 +111,7 @@
 - [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/?couponCode=24T1MT101824)
 - [Mastering TypeScript 2025](https://www.udemy.com/course/learn-typescript/?couponCode=24T1MT101824)
 
-### 10\. AI Focused Links and Learning
+### 10\. AI-Focused Links and Learning
 
 - [DeepLearning.AI](https://DeepLearning.AI) (AI courses and specializations)
 - [ForwardFuture.ai](https://forwardfuture.ai) (Matt Berman's newsletter on everything AI)
@@ -137,28 +138,39 @@
 - [UI Avatars](https://ui-avatars.com/) (A service to generate avatars with initials)
 - [Google Fonts](https://fonts.google.com) (Google's library of free and open-source fonts)
 - [Unsplash](https://unsplash.com) (A website for high-quality, free-to-use stock photography)
-- [Emoji Picker React](https://www.google.com/search?q=https://emoji-picker-react.dev/) (A React component for an emoji picker)
+- [Emoji Picker React](https://emoji-picker-react.dev/) (A React component for an emoji picker)
 
 ### 13\. API Resources
-- [Public APIs](https://github.com/public-apis/public-apis) (A list of various poublic APIs)
-- [Rapid API](https://rapidapi.com/) (A 'search engine' and subscription platform for various APIs)
-- [Public APIs](https://publicapis.dev/) (A graphic display of the GitHub repo with search functionality)
 
-
+- [Public APIs](https://github.com/public-apis/public-apis) (A list of various public APIs)
+- [RapidAPI](https://rapidapi.com/) (An API marketplace and discovery platform)
+- [Public APIs Directory](https://publicapis.dev/) (A searchable web directory of public APIs)
 
 ### 14\. Interview Prep
 
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) (Front end interview preparation resources for busy engineers)
-- [Tech Interview Handbook](https://www.frontendinterviewhandbook.com/) (Free curated interview preparation materials for busy people)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) (Free curated interview preparation materials for busy people)
 
-### 15\. More Resources
+### 15\. Career and Job Search
+
+- [Resume Worded](https://resumeworded.com/) (AI-assisted resume and LinkedIn feedback)
+- [Teal](https://www.tealhq.com/) (Job tracking and resume tailoring tools)
+- [Pramp](https://www.pramp.com/) (Free peer-to-peer mock interviews)
+- [Interviewing.io](https://interviewing.io/) (Anonymous technical mock interviews)
+- [Levels.fyi](https://www.levels.fyi/) (Compensation benchmarks by role and region)
+- [Otta](https://otta.com/) (Tech-focused job board for startups and growth companies)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/) (Networking-driven job search platform)
+- [Huntr](https://huntr.co/) (Simple application and networking tracker)
+
+### 16\. More Resources
 
 - [Developer Roadmaps](https://roadmap.sh)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [JR Developer Portfolio Reviews](https://www.youtube.com/watch?v=9lhltZf8lJI)
 - [The 10 Most Important Concepts for Coding Interviews](https://www.youtube.com/watch?v=Ge0Udbws1kc) by Clement of [AlgoExpert](https://www.algoexpert.io/)
-- [Atomic Habits Summary](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) (How to become 37.78 times better at anything)
-- [Codepen.io](https://codepen.io) (A great source for inspiration)
+- [Atomic Habits Summary](https://jamesclear.com/atomic-habits-summary) (How to become 37.78 times better at anything)
+- [Atomic Habits Summary YouTube Links](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) (How to become 37.78 times better at anything)
+- [CodePen](https://codepen.io) (A great source for inspiration)
 - [AWS Training](https://aws.amazon.com/training/) (Learn anything AWS)
 - [Firebase](https://firebase.google.com) (Google's backend-as-a-service platform)
 - [Expo](https://expo.dev) (Develop in React for mobile devices)
@@ -166,7 +178,7 @@
 - [Free Game Assets](https://itch.io/game-assets/free)
 - [Freesound](https://freesound.org/) (A collaborative database of creative-commons licensed sound)
 - [How to 'juice' your app](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
-- [AirBnB JavaScript Code Style Guide](https://github.com/airbnb/javascript)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Cat Collector Bonus Lesson](https://gist.github.com/jim-clark/4945b32b2f105c71ba03e29a42d05a42) (Using htmx for SPA-like features)
 - [HTMX Crash Course from Traversy Media](https://www.youtube.com/watch?v=0UvA7zvwsmg)
-- [Canada-Holiday.ca](https://www.google.com/search?q=https://canada-holiday.ca) (A resource for Canadian holidays)
+- [Canada-Holiday.ca](https://canada-holiday.ca) (A resource for Canadian holidays)
