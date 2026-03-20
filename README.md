@@ -181,3 +181,4 @@
 - [Cat Collector Bonus Lesson](https://gist.github.com/jim-clark/4945b32b2f105c71ba03e29a42d05a42) (Using htmx for SPA-like features)
 - [HTMX Crash Course from Traversy Media](https://www.youtube.com/watch?v=0UvA7zvwsmg)
 - [Canada-Holiday.ca](https://canada-holidays.ca) (A resource for Canadian holidays)
+- [Schema.org](https://schema.org/) (a community with a mission to create, maintain, and promote schemas for structured data)
