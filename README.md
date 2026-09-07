@@ -4,6 +4,7 @@
 
 - [MDN Web Docs](https://developer.mozilla.org/) (JavaScript, HTML, CSS)
 - [JavaScript Info](https://javascript.info/) (A deep dive into core JavaScript concepts)
+- [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)(A great resource to go to when you start using TypeScript with React)
 - [Python Documentation](https://docs.python.org/3/)
 - [React Docs](https://react.dev/)
 - [Django Documentation](https://docs.djangoproject.com/en/stable/)
@@ -59,6 +60,7 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/) (Learn flexbox by playing a game)
 - [CSS Grid Garden](https://cssgridgarden.com/) (Learn CSS Grid by playing a game)
 - [CSS Diner](https://flukeout.github.io/) (Learn CSS while playing a game!)
+- [GLass Morphism Generator](https://hype4.academy/tools/glassmorphism-generator)(From the person who coined the name)
 
 ### 4\. Git and Version Control
 
@@ -145,6 +147,16 @@
 - [Public APIs](https://github.com/public-apis/public-apis) (A list of various public APIs)
 - [RapidAPI](https://rapidapi.com/) (An API marketplace and discovery platform)
 - [Public APIs Directory](https://publicapis.dev/) (A searchable web directory of public APIs)
+- [Fan Art API](https://fanart.tv/get-an-api-key/) (An API to retrieve Art created for Movies, TV-shows and Music by fans)
+- [The Audio DB](https://www.theaudiodb.com/) (Fan art API for music.)
+- [The Movie DB](https://www.themoviedb.org/) (Get info for Movies, TV Shows and People)
+- [The TV DB](https://thetvdb.com/) (And API to retrieve images and info about TV Shows)
+- [Music Brainz](https://musicbrainz.org/doc/MusicBrainz_API) (MusicBrainz is a community-maintained, open source encyclopedia of music information)
+- [The Dog API](https://dog.ceo/dog-api/)(The internet's biggest collection of open source dog pictures.)
+- [Stoicism Quote API](https://github.com/tlcheah2/stoic-quote-lambda-public-api) (This API generates stoicism quotes to help you live a better life using Stoicism wisdom.)
+- [Random Duck API](https://random-d.uk/api) (An API that returns the image of a random duck ... )
+- [The Disney API](https://disneyapi.dev/) (A restful and GraphQL API based on Disney characters. Using this API you can get information on Disney characters.)
+- [The Cat API](https://thecatapi.com/) (Cats so you can delight customers with ever changing content, facts and breed info.)
 
 ### 14\. Interview Prep
 
